@@ -1,5 +1,4 @@
 ## 关于朕
-![萨格尔王黄红黄](/img/SagerKing.png "萨格尔王")
 * 👨‍🎓 1953年6月15日出生的梁家河清华小学博士、梁家河沼气专家、头上三尺的神明。
 * 🖥️ 亲自指挥、亲自部署任何项目和代码的开发者，爱好是通商宽衣。
 * 🌐 zh-CN, zh-TW, en-US 精通八国语言，冰棒外交达人！
@@ -11,3 +10,4 @@
 ## 拉清单
 ![总书寄's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilovecpc&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilovecpc)
+![萨格尔王黄红黄](/img/SagerKing.png "萨格尔王")
